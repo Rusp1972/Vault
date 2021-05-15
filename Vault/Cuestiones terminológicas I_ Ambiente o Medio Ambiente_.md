@@ -1,0 +1,7 @@
+- Autor: [[Aliciardi, María Belén]]
+- Materia: [[Introducción a la Cuestión Ambiental]]
+- Síntesis: Hablar de "Medio Ambiente" es una tautología, pues "Medio" y "Ambiente" refieren a lo mismo: el lugar donde se desarrolla el hombre, natural y socialmente.
+- La confusión surge en español de una defectuosa traducción efectuada que llevó a designar al ambiente como [[medio ambiente]]. 
+- Relata que en una conferencia en Estocolmo en 1972 la traductora que ignoraba el español, copió del diccionario la traducción de "environment": "medio, ambiente" omitiendo la coma entre ambas palabras.
+- Hablar de "medio ambiente" constituye una redundancia, a menos de que se esté haciendo referencia a un departamento muy chico.
+- No existe el medio ambiente sino el ambiente completo, y no se trata de un juego de palabras, sino que es así porque incluye no sólo al ambiente natural, sino también a los aspectos socioeconómicos y culturales.

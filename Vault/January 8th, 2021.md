@@ -1,0 +1,5 @@
+- Vino plomero.
+- Espero llamada de médico para consulta.
+- Fijé turno para Hospital de Día para el 22/1 a las 10.30 hs.
+- Comencé trabajo final de [[ Economía Ambiental y de los Recursos Rurales]]
+- 

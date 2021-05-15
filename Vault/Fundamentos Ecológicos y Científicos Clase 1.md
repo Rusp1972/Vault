@@ -1,0 +1,95 @@
+- [[Fundamentos Ecológicos y Científicos de la Política, el Derecho y la Gestión Ambiental]]
+- Clase 1: Ecología y [[Ambiente]]
+- Mag. María Angélica Moya
+- Caso [[Aspectos para analizar en relación con el Caso Minamata]]
+- Definición de ambiente: Estocolmo 1972 ONU. Suma de componentes naturales y sociales.
+- [[Minamata]]: acción sobre las personas, salud, economía, puestos de trabajo, etc.
+- Planeta Tierra: 4º del sistema solar, en relación al Sol, por lo que tiene una constante solar adecuada. Atmósfera externa (masa gaseosa que protege y filtra radiaciones solares dañinas), compuesta por ciertos elementos. Tiene proporción adecuada de oxigeno para la vida. Ello acondiciona la temperatura media y permite retener ciertos gases. Vida: posición de la Tierra, presencia de masa de agua que cubre 75% de la superficie. Atmósfera. Hidrosfera. Litosfera. Tecnosfera. Biota. Todo relacionado entre si, formando la Biosfera.
+- Este sistema es capaz de subsistir por la energía radiante del sol. Biosfera son los lugares de la Tierra en que se desarrollan los organismos vivos.
+- Subsistemas complejos, no por nro. de partes, sino por entender que tienen una finalidad, además reciben la influencia de lo externo, influyen en el ambiente y eso genera una respuesta del ambiente. Todo ello en permanente interacción, en lo que se llama ________ Dinámicos.
+- Célula: unidad de vida. Cumple función y capacidad de reproducirse. Diferenciación de células: más sensillas procariotas, no hay membrana que separe del núcleo. Las eucariotas, contienen un núcleo diferenciado.
+- Organismo humano: El sistema humano, ejemplo muela que genera respuesta del SNC.
+- Hormiguero.
+- Pandemia: conocimiento, respuesta, casos. Acciones de protección. Todo ello es un sistema complejo.
+- ECO: del griego, casa. LOGIA: estudio. Estudio de la casa.
+- Haeckel: La economía doméstica de la naturaleza, 1866: ciencia que estudia a los seres vivos, su distribución y abundancia, y cómo son afectados por su interacción con organismos y ambiente.
+- Margalef, 1998. La biología de los ecosistemas.
+- SERES VIVOS / INTERACCION.
+    - Niveles de organización de componente biótico: de menor a mayor: Atomos, moléculas, células, tejidos, órganos y sistemas, individuo, población, comunidad, ecosistema, biosfera.
+    - De población a biosfera es el objeto de estudio de la ecología.
+- POBLACIÓN: grupo de organismos de la misma especie que viven en un lugar y tiempo determinados y están relacionados genética y ecológicamente.
+    - Características y relaciones que las definen
+    - Características
+        - Densidad: nro de individuos por área. Nro. de individuos por densidad relativa.
+        - Crecimiento: tasa de aumento o disminución de la población (nacimiento, muertes, inmigración, emigración).
+        - Distribución:
+        - Estructura: base por géneros y rango etáreo.
+    - Relaciones intraespecíficas
+        - Cooperación 
+        - Competencia (reproductiva, espacio, alimento)
+- Ejemplo: castor en Tierra del Fuego, plaga por no tener depredador natural.
+- Ejemplo 2: Formación que adopta el cardumen para proteger a sus individuos
+- Ejemplo 3: Bandadas de pájaros que cambian de hábitat estacionalmente.
+- Ejemplo 4: Competencia por el espacio (anémonas).
+- COMUNIDAD: asociación de diferentes poblaciones que viven en el mismo lugar e interactúan entre sí.
+- Estabilidad
+- Relaciones tróficas
+- Relaciones interespecíficas: 
+    - Mutualismo (abeja-flor). 
+    - Comensalismo (ballenas y crustáceos que se adhieren a su piel, no causan ningún daño).
+    - Parasitismo (una especie vive a expensas de la otra, al punto de ocasionarle la muerte; garrapata, mosquitos, tenias).
+    - Predación (una especie se alimenta de otra).
+    - Competencia por el espacio (esponjas y coral).
+- Humanos y mascotas: interespecíficas. 
+- UNIDAD DE ESTUDIO DE LA ECOLOGÍA
+- Ecosistema está formado por seres vivos y características del hábitat no vivientes.
+- Interacciones mutuas
+- TIPOS DE ECOSISTEMA
+    - Naturales (sin intervención del hombre):
+        - 1) Terrestres (suelo firme): desiertos, selvas, bosques, matorrales.
+            - 
+        - 2) Acuáticos (ríos, lagos, mares).
+        - 3) Mixtos (costas, humedales).
+    - Con actividad humana:
+        - Ciudad
+        - Parafitos en zona rural costera
+        - Cultivo
+        - Ganadería
+- ELEMENTOS DEL ECOSISTEMA
+    - Factores [[Bióticos]]: MONERA (bacterias), PROTISTAS (pluricelulares con núcleo: algas y levaduras, almacenan energía radiante), FUNGI (hongos y levaduras), PLANTAE y ANIMALIA (individuos con locomoción propia).
+    - Factores [[Abióticos]]: sol, sustancias (agua, gases, minerales, temperaturas, lluvia) QUIMICOS Y FISICOS
+- Propiedad de organismos vivos
+    - Organización
+    - Homeostasis (autoregulación)
+    - Relación o irritabilidad (ante estímulos externos)
+    - Metabolismo
+    - Desarrollo
+    - Reproducción de organismo copias de sí mismos
+    - Capacidad de adaptación ante estímulos externos
+- CADENA [[TRÓFICA]]
+- Sol al Productor: en presencia de luz solar y clorofila, transforma energía lumínica en química. Compuestos inorgánicos en orgánicos. La planta respira y parte de la energía se pierde en forma de calor. Es organismo productor que produce su propio alimento (autotrofos).
+- Esa planta puede ser consumida por un consumidor primario, herbívoro. Ese puede ser ingerido por un secundario, carnívoro. 
+- Descomponedores, liberan energía y hacen que se reinicie el círculo.
+- Cada eslabón es Autotrofos o Heterotrofos de acuerdo a la fuente de C.
+- La materia se transforma. La energía proviene del sol y se va transformando, pero en cada eslabón se pierde energía en forma de calor. Hay un reciclo de nutrientes y el flujo de energía.
+    - El flujo de energía y el ciclo de la materia respetan la leyes de la termodinámica y de la conservación de la materia.
+
+- Flujo de energía: el sol emite energía radiante y los autotrofos toman elementos y la luz solar y lo transforman en elementos orgánicos y liberar energía.
+- Ley del Diezmo: cada eslabón de la cadena alimentaria pasa el 10% de la energía. 
+- Fotosíntesis: es la reacción que permite crear energía química a partir de energía lumínica.
+- Transformación de agua y dióxido de carbono en energía química almacenada en organismos vivos.
+- La realizan organismos autotrofos
+- C02 + H2O + LUZ SOLAR = CARBOHIDRATOS Y ATP
+- Zonas de alta producción primaria: TROPICOS Y SUBTROPICOS
+- [[CICLO BIOGEOQUIMICO]] del CARBONO
+- Hidrosfera 71 % Litosfera 22% Biosfera 6% Atmosfera 1%
+- CICLO BIOGEOQUIMICO del NITROGENO
+- HABITAT: espacio físico concreto en el que el organismo está adaptado y vive.
+- NICHO ECOLOGICO: es la función de una especie en la cadena trófica. Renacuajo se alimenta de plantas, se convierte en rana e incorpora pequeños animales.
+- BIODIVERSIDAD: América Central y Caribe tiene el 30% de biodiversidad. Se habla en un concepto muy grande, de distintas especies, distintos individuos de una misma especie y __________________. Vamos a ver de Río 92 el convenio sobre diversidad biológica, que comprende estos tres aspectos.
+- FUENTE Y [[SUMIDERO]]: todo ecosistema es fuente y sumidero. Por ejemplo el aire es fuente de oxígeno y sumidero de CO2. Es sustento de la vida.
+- BIENES Y SERVICIOS:  
+- Servicios de abastecimiento: ---
+- Servicios de regulación: purificación, descomposición, polinización, ---
+- Servicios de ---
+- MENSAJE ESPERANZADOR: [[ECONOMIA CIRCULAR]].

@@ -1,0 +1,4 @@
+- Sábado
+- Hoy voy a terminar de leer [[DIAMOND, J. (2005). COLAPSO: POR QUÉ UNAS SOCIEDADES PERDURAN Y OTRAS DESAPARECEN.]] en particular Islas del Pacífico y Ruanda.
+- Voy a ver el documental de [[Gore, Al]] 
+- 

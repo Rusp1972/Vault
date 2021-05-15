@@ -1,0 +1,9 @@
+- Hoy hablé con Eduardo sobre Roam Research, le mostré mis avances y me compartió el video de Shu Omi: https://www.youtube.com/watch?v=ljyo_WAJevQ&t=
+- [[Zettelkasten Method]]
+- [[Técnica Feynman]]
+    - La mejor forma de aprender es enseñar.
+    - La técnica se divide en 4 pasos:
+        - 1) Establecer el objeto de estudio.
+        - 2) Estudiar. Luego escribir todo lo que recuerdas en un papel con lenguaje sencillo. Luego explicarlo en voz alta.
+        - 3) Completar las lagunas, estudiando más.
+        - 4) Reescribirlo y explicarlo como si le enseñaras a un niño.

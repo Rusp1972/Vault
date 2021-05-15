@@ -1,0 +1,2 @@
+- Referido por: [[Zettelkasten Method]]
+- Referido por: [[Shu Omi]]

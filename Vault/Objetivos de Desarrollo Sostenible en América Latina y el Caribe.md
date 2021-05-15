@@ -1,0 +1,5 @@
+- Curso online de Coursera - 17 hs.
+- Universidad de Los Andes (Colombia)
+- Material obligatorio de la materia [[Introducción a la Cuestión Ambiental]] (clase 2).
+- 1º MODULO. Objetivos de Desarrollo Sostenible.
+- 

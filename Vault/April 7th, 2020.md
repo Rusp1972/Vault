@@ -1,0 +1,11 @@
+- Masterclass Derecho 4.0
+    - DATOS
+        - Acceso irrestricto: Nombre y DNI
+        - Datos personales: Geolocalización
+        - Datos personales sensibles: Biometría
+        - Los datos -insumo básico de IA- pueden ser tratados de 3 maneras:
+            - Anotar en planilla o registro (s. XX).
+            - Tratamiento electrónico (mail).
+            - Tratamiento automatizado: algoritmos que hacen que el dato fluya, es irrelevante el soporte. Antes se podían tomar medidas de seguridad (incendio inundación robo). Cuando el dato ya no depende del soporte, cuesta mucho más proteger al dato. 
+        - Técnicas para frizar el dato anónimante para que el dato se separe de la persona (disociación).
+        - Anomización o pseudoanomización: queda el diagnóstico pero no asociado a un ser humano. 

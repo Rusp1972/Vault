@@ -1,0 +1,17 @@
+- [[Introducción a la Cuestión Ambiental]]
+- Video de youtube: https://www.tvpublica.com.ar/post/industria-textil-la-segunda-mas-contaminante-del-planeta
+- La ind. textil tiene una importante huella de carbono, por la gran cantidad y rotación de prendas, La agricultura y extracción de petróleo, el Transporte de materias primas, el Uso del agua y compuestos químicos en el lavado
+- En la fabricación se tiñen los tejidos, con uso de químicos, colorantes y agua. 
+- Huella hídrica muy alta
+- Recomendaciones: ser consumidores responsables, cuando adquirimos un producto sólo en caso de saber que lo vamos a utilizar
+- Aumentar el ciclo de vida (donación)
+- Usar equipos eficientes para el lavado y el secado
+- Residuos textiles, cómo ampliar la vida media de las prendas textiles
+- La ind. textil es responsable del 20% de los tóxicos que se vierten en el agua. No hay interés en el ambiente, es una actividad de gran movimiento. Se venden 80.000 millones de prendas todos los años, generando 2 billones de dólares. 
+- Existen emprendedores que quieren hacer las cosas de una forma más conciente, lejos de la prod. masiva.
+- Una remera de algodón: 1700 lts. de agua, por los químicos y fertilizantes.
+- Reducen el impacto ambiental.
+- Es un sector en el que no se menciona el impacto ambiental.
+- Es importante que los prod. sean certificados como orgánicos.
+- El consumidor habitual busca buen precio y a los 2 meses la deja de usar.
+- La industria textil es hoy la 2da más contaminante del planeta.

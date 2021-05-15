@@ -1,0 +1,36 @@
+- [[Empleo Verde]]
+- Clase de [[Daniel Seitune]]
+- 01/12/2020
+- Código de Conducta FAO
+- Vías de hecho: no se respetan las normas
+- Esfuerzo pesquero: "conjunto de medios implementados para capturar peces a partir de un stock en una unidad de tiempo determinada"
+- Consecuencias biológicas de actividad pesquera no sustentable: Rentabilidad-Esfuerzo Pesquero-Biomasa-Resiliencia del Ecosistema Natural
+- Pérdida de rentabilidad, menos inversión, pérdida de trabajo.
+- Espacios marítimos argentinos: Ley 23968
+- ZEE: 200 millas
+- Mar territorial: 12 millas
+- Zona contigua: 24 millas
+- Siempre desde la línea de base
+- Río de la Plata zona compartida con Uruguay por otra ley
+- Ley 27557 Plataforma Continental Argentina (PCA)
+- Conmemar: art. 57 derechos de soberanía sobre la plataforma continental sobre recursos sedentarios que son los que durante la exploración se encuentran fijas o bien se mueven por contacto en el lecho continental. Hay soberanía y un tercer estado debería contar con el permiso del Estado Argentino. 
+- El derecho es sobre el lecho marino, no sobre la columna de agua.
+- Flota pesquera argentina: buques con distintos tipos de nombres
+- Merluza común: distribución geográfica 
+- Langostino: ampliación de la distribución geográfica entre 1999 y actualidad, por distintos temas (salinidad, temperatura, etc.)
+- Calamar: distribución estacional
+- Ley Federal de Pesca: 24.922 de 1997
+- Integral y sistémica para el uso sostenible de un recurso
+- Criterio de aprovechamiento racional, ejercicio sostenible de la actividad, largo plazo 
+- Sistema de administración CITC es el corazón de la ley porque da operatividad a los mandatos (aprovechamiento racional)
+- Investigación pesquera: esencial porque sin ella no se puede gestionar el recurso. 2016 todas las líneas de investigación se realizan con visión integral ecosistémica (holística) y se evalúa cómo impactan los servicios ecosistémicos en la pesca. Lo desarrolla el instituto de pesca.
+- Reconocimiento a las provincias (5 prov. con litoral marítimo: BA, RN, CH, SCZ, TDFAeIAS), con rol proactivo de la política nacional pesquera. 
+- Consejo Federal Pesquero: cada prov. con lit. marítimo, cancillería, MADS, 2 repr. de PEN y secr. de pesca que lo preside.
+- MARCO NORMATIVO: CN, Conv. Int. (convemar), etc.
+- Autoridad de aplicación: CFP
+- Funciones: política pesquera, pol. de investigación, fijación de máximos permisibles, etc.
+- Jurisdicción: 24922 ámbito de aplicación: 12 millas jurisdicción provincial 
+- Area adyacente (milla 201) el estado ribereño tiene ciertos derechos sobre recursos asociados a la ZEE o migratorios (como calamar que en su adultez salen fuera de la ZEE)
+- PAN-INDGR sistema de control de actividad ilegal
+- Integración del Fondo Nacional Pesquero: nación y provincias, y autoridades que controlan y fiscalizan
+- Sistema de Adm. de Pesquerías: 

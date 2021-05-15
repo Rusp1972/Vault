@@ -1,0 +1,69 @@
+- Diana María Rey Lema
+- [[Introducción a la Cuestión Ambiental]]
+- Trilogía Ciencia Tecnología Sociedad / Vol. 11 • Núm.20 / ISSN-p 2145-4426 / ISSN-e 2145-7778 /ene-jun 2019 / pp. 177-204
+- Bioética y bioeconomía: disciplinas para supervivencia del mundo planetario. Trilogía  Ciencia  Tecnología  Sociedad,  11(20), 177-204. https://doi.org/10.22430/21457778.1217ioética y bioeconomía: disciplinas para supervivencia del mundo planetario
+- Una ética para complementar y guiar la relación económica con la tierra presupone la existencia de alguna imagen mental de la tierra concebida como un mecanismo biótico.Aldo Leopold, 1949
+- Cabe resaltar la contradicción que se genera a raíz del poco desarrollo tecnológico que se encuentra en América Latina
+- se habla de un desarrollo bioético norteamericano, uno europeo y uno latinoamericano
+- Fundamentación de la bioética
+- El filósofo Tom Beauchamp y el teólogo James Childress publicaron, en 1979
+- proponen la fundamentación de la bioética mediante los principios para el ámbito médico y las relaciones entre la ciencia y la tecnología.
+- niveles de racionamiento moral
+- El  primer  nivel  del  razonamiento  moral  (deberes  primarios)  se  desarrolla en  el  escenario  intersubjetivo
+- el segundo nivel de razonamiento moral se materializa con los derechos reales y efectivos de obligatorio cumplimiento transciende  del  fuero  interno,  es  un  deber  de cumplimiento de lo prometido
+- Los principios de la bioética son deberes primarios o prima  facie
+- Los  principios  bioéticos  no  son  invención  de  Beauchamp  y  Childress,  estos autores acogieron las ideas existente
+- la génesis del principio de beneficencia y no maleficencia tiene sustento cercano en el Juramento Hipocrático
+- el principio de autonomía, en la Declaración de los Derechos Humanos
+- el principio de justicia desde Aristóteles hasta Rawls
+- El principio  de  beneficencia es la obligación moral de hacer el bien (consentimiento informado)
+- el principio de no maleficencia, primun non nocere, presenta su cimiento en no causar daño o perjuicios a los otros
+- El principio  de  autonomía  establece  posturas  de  libertad,  autodeterminación  y autolegislación, por lo cual es un imperativo categórico: la persona es un fin en sí mismo.
+- El principio  de  justicia,  se  reconoce  como  un  elemento  esencial  de  cualquier sociedad que respeta la igualdad de todos los seres humanos, es un principio formal, de trato igual a los iguales y desigual a los desiguales, además de un principio material.
+- El principio  de  responsabilidad  se  establece  como  consecuencia  del  abuso  de dominio del hombre sobre la naturaleza,
+- La bioeconomía: oportunidades y desafíos
+    - El hombre concibe la naturaleza como un recurso, cuya apreciación se basa en razones utilitarias.
+    - Concepto de partida
+    - Nicholas Georgescu-Roegen
+- cambio de paradigma para la economía: la bioeconomía o la economía ecológica
+- La bioeconomía, establecida como la relación entre economía y ecología, es un nuevo enfoque que resalta la importancia de los recursos de origen biológico y la relación con los procesos económicos
+- La finalidad de la bioeconomía es la administración eficiente de los recursos de orden biológico para consolidar una visión amplia de la economía e incorporar cuestiones  éticas  en  el  mercado  frente  a  la  producción,  la  distribución  y  el abastecimiento  de  los  recursos.
+- lo que implica necesariamente modificar el sendero de la teoría neoliberal de la libre competencia
+- Hay  seis  asimetrías  fundamentales
+- el hombre debe establecer políticas respecto de la huella ecológica, la producción de bienes para el consumo, como vehículos, plásticos  y  teléfonos  celulares,  generar  una  gran  diferencia  entre  el  consumo endosomático de energía y el uso exomático, lo que afecta los recursos naturales
+- ocho acciones que denominó los postulados de lo bioeconómico mínimo
+- (a) los instrumentos de la guerra
+- (b) los recursos que se iban a destinar a la guerra deben ser repartidos
+- (c) los Estados deben reducir la población
+- (d) el aprovechamiento de la energía solar
+- (e) la humanidad no debe ser en exceso consumista
+- (f) la moda no es un elemento fundamental
+- (g) diseñar productos duraderos y reparables
+- (h) emplear el tiempo libre de forma eficiente, eficaz e inteligente
+- Los  postulados de la bioeconomía propuestos por Georgescu no se tuvieron en cuenta como consecuencia de los postulados de la teoría neoliberal
+- durante la última década los Estados han empezado a consolidar como marco de referencia de las políticas públicas de desarrollo e innovación el concepto de bioeconomía con algunas modificaciones de las presentadas en su momento por Georgescu-Roegen
+- La Agenda 2030 recoge en esencia el programa bioeconómico mínimo desarrollado por Georgescu-Roegen en 1975
+- contexto latinoamericano
+- cuenta con una de las mayores reservas de biomasa —considerando que se alude a la totalidad de la materia orgánica, por lo que es significativa la presencia de la selva del Amazonas, además de la gran presencia de recursos minerales en el territorio—
+- solo dos países latinoamericanos han tenido un desarrollo significativo en términos de estrategias para implementar la bioeconomía, es el caso de Brasil y Argentina
+- el gran impacto que tiene la “producción y transformación a gran escala de la biomasa en combustibles” (p. 132) en Brasi
+- desarrollar  una  biotecnología  pertinente para los intereses de investigación y la aplicación efectiva de una bioeconomía
+- Otro es el caso de Argentina, pues no existe una estrategia propiamente dicha para implementar la bioeconomía, pero la mayoría de los sectores que se relacionan con la tecnología y la innovación se erigen desde ese marco
+- Sostenibilidad del ambiente: elemento esencial para supervivencia planetaria
+- La naturaleza debe  ser  sujeto  de  derechos  al  ser  esencial  para  la  vida  planetaria.
+- La Unesco establece la Declaración Universal sobre Bioética y Derechos Humanos, en la cual se plantean una serie de estrategias que los Estados pueden seguir con el fin de aplicar la bioética a sus relaciones económicas y cuidar así el impacto que tiene el desarrollo sobre el medio ambiente
+- (Unesco, 2005)
+- El ambiente sano es una fuente de bienestar
+- La naturaleza tiene valores en sí misma en tanto es un ser vivo (Gudynas, 2011)
+- biodiversidad
+- una variabilidad de organismos con vida
+- La diversidad biológica es uno de los factores determinantes de los procesos de recuperación, reciclaje y reconversión de nutrientes y desechos, muchos de los servicios ambientales que proporciona la biodiversidad forman parte de ciclos vitales para la sociedad, como los ciclos del agua, del oxígeno y del nitrógeno (CEPAL,
+- es justamente el ser humano el responsable de todos los desequilibrios ambientales ocasionados
+- El desarrollo sostenible no se opone a los avances de la ciencia y la tecnología, por el contrario, propende a la preservación de un ambiente sano y a la alimentación para  satisfacer  las  necesidades  actuales  sin  poner  en  peligro  las  necesidades de las generaciones futuras.
+- Es  necesario  hacer  finalmente  una  mención  precisa  respecto  a  los  llamados derechos de tercera generación, en los cuales se encuentra planteado el derecho a un ambiente sano para toda la humanidad,
+- protección en términos constitucionales
+- CONCLUSIONES
+    - La  bioética  y  la bioeconomía hacen compatibles los intereses de las empresas de manera que sus conductas cimentadas en la ética respeten los recursos naturales y apliquen el principio de responsabilidad.
+    - 1. El hombre realiza actividades cimentadas en el interés individual y no tiene en cuenta la relación con la naturaleza
+    - 2. La tierra es sujeto de derechos
+    - 3. El desarrollo económico y la sostenibilidad medioambiental no van separados, son un conjunto que debe formar sinergias para la preservación y respeto por el medioambiente.

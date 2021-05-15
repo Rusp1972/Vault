@@ -1,0 +1,9 @@
+- Estudiar para la Maestría: 
+- 1) [[Introducción a la Cuestión Ambiental]]
+    - TP sobre Minamata:
+    - [[La Historia de las Cosas]]
+    - 
+- 2) [[Fundamentos Ecológicos y Científicos de la Política, el Derecho y la Gestión Ambiental]]
+    - 
+- 3) [[Compras Públicas Sustentables]]
+    - 

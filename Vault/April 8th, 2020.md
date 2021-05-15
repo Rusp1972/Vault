@@ -1,0 +1,6 @@
+- Me llamó el Dr. [[Abreu, Gustavo]] y pasó contacto de la Dra. M. Belén Aliciardi para consultas sobre materias.
+- Hablé con [[Aliciardi, María Belén]], me agregó al grupo de Whatsapp de la MPDGA y me indicó 3 materias optativas de 1º año: [[Compras Públicas Sustentables]], [[Gestión y Marco Legal el Recurso Aire]] y [[Comunicación y Educación Ambiental]].
+- Envié mail de inscripción y me contestaron positivamente.
+- Cargué nuevas materias en el calendario.
+- Chateamos con la [[Oficina]] por tema COVID19. Reunión del 10/4 para atender se suspendería porque sigue cuarentena y nos exponemos a multas, etc. Mañana 9/4 a las 12 hs. haremos videollamada para coordinar pasos a seguir.
+- 

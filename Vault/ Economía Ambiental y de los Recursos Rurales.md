@@ -1,0 +1,11 @@
+- Prof.:  [[]Edgardo Ferré Olive]]
+- Trabajo final: elegir un tema de Economía Ambiental y escribir sobre el mismo (10 páginas).
+- Fecha de entrega 31/12/2020. Me otorgaron prórroga hasta el 15/01/2021.
+- Posibles temas:
+    - [[Bienes comunes]]: agua, escasez, cotización en mercado de futuros.
+    - Wikipedia: 
+    - Sánchez Rubio(2009): privatización de los bienes comunes. Relación entre mercado y commons. Plantea que los bienes comunes fueron perdiendo su condición comunitaria o colectiva y experimentaron un proceso de privatización con fines comerciales. https://www.redalyc.org/pdf/153/15323166009.pdf
+    - Marco histórico de los bienes comunes o propiedad común: 
+    - En Grecia: existía una confrontación entre la idea de propiedad privada y la propiedad común. Pericles argumentó a favor de la Guerra del Peloponeso basándose en una idea de superioridad moral ateniense, considerando que los restantes pueblos daban preponderancia al bien individual y desatendían el bien común.
+    - En Roma: 
+    - 

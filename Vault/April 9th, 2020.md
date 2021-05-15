@@ -1,0 +1,4 @@
+- Tuvimos videochat con [[Oficina]]. Iremos mañana a atender cobranzas, y delinear pasos a seguir.
+- {{[[DONE]]}} Tramitar permiso de circulación nuevo.
+- {{[[TODO]]}} Pasar autorización a Majo.
+- 

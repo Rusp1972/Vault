@@ -1,0 +1,17 @@
+- MONDAY
+- Wake up 7am
+- Plan from 7.30 to 8.00 am.
+- Read from 8 to 9 am.
+- MASTER:
+    - Send mail with PPE and inscription to English.
+    - Talk to Belén and ask her how to say it to Payá or Rosario, about taking Aire and English at the same time.
+    - 9 - 13 hs.: Int'l Environmental Law
+    - 14 - 18 hs.: Environmental Constitutional Law
+- WORK: 
+    - Call Kusinsky
+    - Call Andrés
+    - Call Dra. Patricia
+    - Write CD Salgán
+- PERSONAL
+    - Start routine: walking day 1
+- 

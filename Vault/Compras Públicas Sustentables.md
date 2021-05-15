@@ -1,0 +1,3 @@
+- Materia optativa de 1º año de la MPDGA.
+- 2020
+- Bibliografía obligatoria: [[Compras públicas respetando el ambiente]]

@@ -1,0 +1,44 @@
+- [Economía Ambiental y de los Recursos Naturales] 
+- 30 de noviembre de 2020
+- Clase 2
+- Cambio Climático
+- Degradación de los Rec. Naturales
+- Falta de planificación territorial (por ej. barrios cerrados y humedales)
+- Amenazas a los Rec. Nat. por causas:
+- Ambientales
+- Climáticos
+- Gran amenaza: falta de sensación de límites: errónea sensación de abundancia, en cantidad pero en calidad también. Por ej. en Argentina están degradados, han perdido la calidad ecosistémica. También afecta a países más desarrollados, por ejemplo la expulsión de inmigrantes en Europa o EEUU, la gente va hacia donde hay más recursos. 2020 es un año en el que se hizo visible ese límite. 
+- Desvalorización de los servicios ecosistémicos: proviene de los bienes comunes, lo que es de todos no es de nadie. Los recursos de la naturaleza no son internalizados por las empresas.
+- No hay tratamiento fiscal prácticamente en Argentina. No hay incentivos, de hecho muchas veces los incentivos van para actividades justamente contrarias a la preservación de valores ecosistémicos.
+- Video sobre la contabilidad de los pasivos ambientales: el PBI cuenta los bienes pero no hay un inventario del capital natural, y no se puede contabilizar entonces cuánto de ese capital está siendo dilapidado en aras del desarrollo.
+- Se contabiliza un bosque en cuanto leña, madera y papel. Pero no en cuanto a su valor ecosistémico para evitar inundaciones o preservar desertificación o biodiversidad.
+- wavespartnership.org
+- INCENTIVOS ECONÓMICOS PARA LA PROTECCIÓN AMBIENTAL
+- Medidas de comando y control: Programas del Estado, contrapartida es la multa o penalización, pueden ser delitos.
+- Instrumentos económicos de protección ambiental: incentivos, desincentivos y financiamiento.
+- 3 características de estos instrumentos: eficiente (que realmente produzcan un resultado ambiental); efectiva en los costos (proporcional respecto de costo beneficio); y equitativa en la implementación de la medida.
+- OECD: incentivos o desincentivos econ. que propician la inclusión de costos y beneficios ambientales en las cuentas.
+- Pago por servicios ambientales (PSA)
+- BONOS DE CARBONO
+- MDL IC y mercado de carbono (Kyoto, ahora complementado por París)
+- Mercados regulados y no regulados
+- Cap and Trade: pongo un límite de emisiones y en caso de exceder se debe comprar a alguien que vende el sobrante de derechos de emisión. Si no, hay penalizaciones.
+- Luego también comenzó el mercado voluntario, con proyectos privados y estatales también. 
+- Carbon Offset: beneficios de comprar y vender carbono.
+- 
+- CLASE 3
+- Clase de Edgardo Ferré Olive
+- NORMAS AMBIENTALES
+- ISO 14000 y 14010, gestión y auditoría ambiental
+- ISO 26000 responsabilidad social
+- Buscan mejorar procedimientos para la mejora del ambiente.
+- MERCOSUR: Subgrupo de trabajo 6, ataca aspectos de biodiversidad y controles ambientales de flora y fauna, no toca economía ambiental como estrategia. 
+- UE: sí ataca estos problemas. Manejo presupuestario eficiente con normas del BCE, no pueden otorgar subsidios ni beneficios "porque sí".
+- Deber de recomponer (ppio. contaminador pagador). 
+- Guías GRI memorias de sustentabilidad (PNUMA)
+- FACECF: res. técnica 36
+- Internalización de externalidades
+- Cumplimiento de regulaciones (como imagen corporativa)
+- Ahorro de emisiones GEI (GRI 4, indicadores 15 a 21)
+- Inversor ético: el que pondera beneficios y defectos de una actividad, con beneficio, pero cumpliendo ciertos requisitos éticos. Fondos de inversión o de pensión en UK, se invierte en pool de empresas que sean inversores éticos.
+- Bélgica tiene tratamiento particular a residentes y belgas invertir en ciertas empresas fabricantes de bombas racimo (minas antipersonales)

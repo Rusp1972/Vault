@@ -1,0 +1,3 @@
+- Referenciado por [[Eduardo Ivanec]]
+- Shu Omi: https://www.youtube.com/watch?v=ljyo_WAJevQ&t=
+- El método se basa en fichas: 1 ficha por tema, y una ficha "espejo" con las notas propias sobre ese mismo tema. 2 párrafos máximo.

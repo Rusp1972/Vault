@@ -1,0 +1,54 @@
+- Summer Programme on International Affairs
+- The Graduate Institute of Geneva (IHEID)
+- June 2020
+- Prof. [[Jorge Viñuales]]
+- [[Global Environmental Change]] is the alteration of environmental processes, such as climate change, change in the chemical composition of the 
+atmosphere and the oceans, biodiversity loss, biological invasions or land
+use change, which are experienced globally.
+- [[Biodiversity loss]]: "The global rate of species extinction is already at least tens to hundreds of times higher than the average rate over the past 10 million years and is accelerating [ … ] of an estimated 8 million animal and plant species (75 per cent of which are insects), around 1 million are threatened with extinction."
+- 
+- **Lesson 1**
+- Approach
+- Process of decolonisation
+- Newly incl. 4 states, developing / Natural resources
+- 1962 UN Assembly: Res Permanent Sovereignty over Natural Resources
+- 1952 Human Rights Commision from UN
+- Decolonisation and the rise of development movement
+- 1972 Stockholm Conference on the Human Environment
+- Conservation movement: British to conserve the beauty of nature in their colonies
+- Rachel Carson: Silent Spring (US early 60s)
+- White rich people produce the most of waste and send it to poor people
+- 1960/70: Global pollution and population increasing exponentially
+- The Stockholm moment: logo placed human in the center
+- It's environmental: not
+- Indira Gandhi's influential address
+    - Environmental issues are luxury, for developed countries
+    - DEV/ENV equation: strike a balance between environment and souvereignty
+- 1984/87: Brundtland Commission Report
+    - Tried to square the circle
+    - Vague: they didn't say HOW!
+- 1992: 20 years from Stockholm: UN Earth Summit
+    - 1st global environmental summit
+    - "Step Backwards": not enought attention to environment protection
+    - UNFCCC: Anex 1 Countries
+- Period of treaties: convention on biological diversity
+- Every country is sit in the negotiation table
+- Words to action: late 90s
+- 2002: Johannesbourg: Social Development
+- 2012: Rio+20
+- 2015: Agenda for sustainable development 
+    - 2030: 17 SDG: Nr 1 is "No poverty": Indira Gandhi 1992
+    - Sustainable development snake
+        - More attention put on social
+        - Less attention on environment
+        - PUSH THE SNAKE TO THE CENTER
+- 17 SDG
+    - Not only countries: all stakeholders
+    - Development: applies to developed and developing countries
+    - 16 goals + 1 (nr 17)
+    - Technology pyramid: 
+        - VALUES
+        - PRINCIPLES
+        - H / A / B / D&A
+        - DOMESTIC LAW
+    - 

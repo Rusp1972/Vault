@@ -1,0 +1,5 @@
+- Autor: [[Gudynas, Eduardo]]
+- Materia: [[Introducción a la Cuestión Ambiental]]
+- Introducción
+    - Concepto de "Naturaleza". Este artículo analiza la conceptualización de la naturaleza (en su segunda acepción referida a un ambiente que no es artificial). 
+    - 

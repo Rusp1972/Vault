@@ -1,0 +1,32 @@
+- [[Introducción a la Cuestión Ambiental]]
+- Video disparador
+- Ambiente es la forma correcta de referirse al medio en que vivimos. Estocolmo 1972.
+- Ambiente: el medio natural es sólo una parte; ... (corte de internet)
+- 
+- 
+- 
+- Componentes del ambiente: bióticos y abióticos. Aloe vera. 
+- CN: en 1994 incluyó el art. 41. Antes estaba dentro de los derechos implícitos (art. 33)
+- Art. 41 toma en cuenta el sistema natural y el cultural. Biodiversidad y cultural material e inmaterial. Bidart Campos entiende que hay una delegación a las provincias. El art. 41 fija un piso, que las provincias pueden subir pero nunca bajar.
+- En sintonía con este 2º párrafo del art. 41 CN tenemos la LGA 25.675 (es de 2002, cuando son los presupuestos mínimos referidos al art. 41 de 1994). Art. 27: habla de ambiente, bienes o valores colectivos. Es referencia a la cultura (sistema natural y sistema cultural). 
+- Fallos y Leyes de la materia: Fuente de las Nereidas (Tandil), 1996 (antes de la LGA) un colectivo embiste la fuente y la destruye, la municipalidad de Tandil inicia demanda, reclamando daño material y daño moral colectivo, por ser punto de reunión de toda la comunidad de Tandil. Fallo innovador, porque se reconoce el valor del patrimonio cultural, y se impone el daño moral colectivo. Se admite en 1º inst. y luego la Cámara de Azul confirma el fallo.
+- Otro fallo es posterior a la LGA: Patrimonio Histórico de Flores. Defensoría del Pueblo demanda por una casa de 1800, Casa Millán, por tener valor histórico. Pide medida cautelar hasta que se proteja la casa. El juez civil otorga la cautelar pero la demandada (constructora) presenta la autorización de demolición e informa que ya fue demolida. Causa penal contra los funcionarios que autorizaron la demolición (son sobreseídos por no probar que fueron notificados de la cautelar). La defensoría pide el daño moral colectivo. 1º inst. hace lugar y se condena a cada uno a pagar 1 millón de pesos. La Cámara en 2008 confirma pero baja los montos de la condena. Tanto la constructora como el GCBA van en queja, se deniega y el Tribunal Superior ordena que otra Sala intervenga. Del GCBA se rechaza por extemporáneo. 
+- EN QUÉ QUEDÓ ESA QUEJA DE LA CONSTRUCTORA?
+- Diamond: por qué algunas sociedades desaparecen? 
+- 5 desastres ambientales mundiales: 
+    - 1) Love Canal (cerca de Cataratas del Niágara). Residuos enterrados. Napas. Contaminación del agua y el suelo. Vida inviable. Tuvo que ser relocalizada la comunidad. 
+    - 2) Bompal (India). Fuga de gases por empresa pesticida. Mató a 15 mil personas y afectó a muchos más, aún hoy nacen niños con deformaciones (3. 12.1984). 
+    - 3) Derrames de hidrocarburos: Exxon Valdez 1989. 
+    - 4) Desastre nuclear: Fukushima 2011.
+    - 5) Mar Aral: desde 1940 a la fecha empresas rusas tomaron afluentes para llevar agua, por lo que pasó de ser el 4to mar al 8vo en la actualidad. Aumentó la salinidad también.
+    - 6) Islas de Plástico: la más grande aprox. como Cuba (Pacífico Norte). Hay varias. 
+- Kenneth Goldwin (economista). Cómo pasar de economía del cowboy a una del astronauta. Hombre como amo y señor de los recursos (como la biblia), sin reglas, como un cowboy. En cambio nos tenemos que dar cuenta de la finitud de los recursos, por eso la economía del astronauta: es como una nave, con recursos limitados, y si no controlamos los recursos los astronautas se quedan sin medio de vida. Se pasa del antropocentrismo a un biocentrismo (desarrollo sostenible).
+- Nuevo concepto: agotamiento de la Tierra. Overshot. 
+- Conflictos y dilemas entre cowboy y astronauta: entre países desarrollados y países en vías de desarrollo. Entre generaciones presentes y futuras. Interés individual o de la comunidad. Y entre crecimiento económico o protección del ambiente.
+- Jared Diamond: 4 libros: Armas, Colapso, El mundo hasta ayer, Crisis.
+- EXPOSICIÓN DE GRUPOS: expuse sobre Islas del Pacífico, en particular Tikopia, en contraposición a Isla de Pascua.
+- COLAPSO: Definición "Drástico descenso de cantidad de población".
+- Selva Amazónica: principal pulmón de aire puro, está asediado por la deforestación para cultivar. 2007 un Ing. brasilero, Nobre, obtuvo el Premio Nobel de la Paz, por el cambio climático por la deforestación amazónica.
+- Bióloga de Kenia, Wangari Maathai, estudió forestación en EE.UU. y forma parte del movimiento cinturón verde.  Recibió el Premio Nobel de la Paz en 2004. Falleció en 2011.
+- Caso práctico: MONSANTO. Juicio hipotético de la Corte Penal Internacional. Ecocidio. Hacer tarea en grupo para su exposición en la primera parte de la 2da. clase.    
+-                                                                                                              

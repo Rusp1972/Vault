@@ -1,0 +1,24 @@
+- Fuente: Anexo 17 PNUD
+- [[Compras Públicas Sustentables]]
+- 
+- ANEXO A.17
+- ASPECTOS AMBIENTALES DE LAS ADQUISICIONES
+- La siguiente es la política verde de adquisiciones del PNUD:
+- A.	El PNUD intentará adquirir bienes y servicios cuya producción, uso y disposición final tengan el menor impacto posible sobre el ambiente, siempre que fuese posible y resultase económico.
+- B.	El PNUD apoya las estrategias de las “4 R”,  es decir, Re-pensar los requisitos para reducir el impacto ambiental; Reducir el material de consumo, Reciclar los materiales de desperdicio; y Reducir el consumo de energía.
+- Antes de concluir con los requisitos de bienes y/o servicios, deben revisarse los temas ambientales, entre ellos:
+- A.	Consumo de Energía
+- B.	Toxicidad
+- C.	Agotamiento de la capa de Ozono
+- D.	Radiación
+- E.	Uso de material reciclado.
+- En resumen, esto requiere la identificación de los bienes y servicios (verdes) que favorezcan el medio ambiente, y que tengan el menor efecto nocivo sobre la salud de los seres humanos y sobre el entorno en comparación  con otros bienes que sirven al mismo fin.
+- Para determinas cuan favorable son los bien0es y/o servicios para el medio ambiente habrá que preguntarse lo siguiente:
+- A.	¿Se puede utilizar una sola vez (descartable) o varias?
+- B.	¿Cual es el contenido del reciclado?
+- C.	¿Consume más energía que otros productos de su tipo?
+- D.	¿Tiene algún modo de uso para ahorrar energía?
+- E.	¿Es durable?
+- F.	¿Puede repararse?
+- G.	¿Pude reciclarse localmente?
+- H.	¿Tiene la calificación “Energy Star”?

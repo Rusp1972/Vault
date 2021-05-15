@@ -1,0 +1,26 @@
+- [[Introducción a la Cuestión Ambiental]]
+- Moda: tendencias repetitivas que modifican comportamientos.
+- Campana de Gauss: "pico" es lo que llamamos "clásicos".
+- Impacto económico: 2% del PBI global 3 mil millones de dólares. 
+- Fashion United: cant. de trabajadores, exportaciones, etc. por país.
+- Es una industria muy compleja, procesos productivos, tiempos, áreas: ventas, preparación de la próxima temporada y diseño y presupuesto para producir las cantidades y talles que respondan al mercado.
+- Pasarelas: temporadas, etc.
+- Una moda de lujo dura en promedio 4 meses. El 20 por ciento del PBI es moda de lujo. Las empresas de alto lujo están buscando alternativas por una nueva visión del lujo a nivel mundial. También ha surgido el ECOLUJO. Empresa colombiana.
+- Derecho:
+- Propiedad intelectual. 2005 aparece en EEUU con tema derechos de autor, con un blog sobre prop. intelectual y derecho de la moda.
+- Master en Fashion Law.
+- 2013 en Univ. Austral se empezó con Der. de la Moda.
+- Contaminación: 2º ind. más contaminante en el mundo. 20% aguas residuales y 10% emisión de C.
+- Der. de la Moda: Tiene por objeto estudio y análisis de las cuestiones jurídicas relacionadas con la moda.
+- Polución ambiental por transporte, provoca más emisiones que los vuelos internacionales.
+- Water Footprint: 7000 lts. para un jean, remera 2700 lts.
+- ODS 6: Agua limpia y saneamiento. 
+- Meta: reducir el % de aguas sin sanear. 
+- ODS 14: conservar y utilizar en forma sana los océanos, mares y recursos marítimos.
+- Materiales naturales: cultivos, algodón y lino. La agricultura tiene impacto en la huella hídrica. 
+- Materiales sintéticos: las fibras sint. son las más usadas (65% contra 20% de algodón)
+- 1940/50 comienza a fabricarse en laboratorios prendas sintéticas.
+- Las partículas van a los océanos: biólogo sobre basura marina: una persona lavando libera 300 mill. de microfibras de poliéster. Usando: 900 millones.
+- También ODS de educación, para educar a los consumidores. No hay etiquetas con huella de carbono.
+- Hacen algo las empresas de moda con los ODS? 2019 empresas de lujo firmaron el Pacto de la Moda, 3 compromisos: calentamiento, biodiversidad y proteger los océanos.
+- 2020 no se van a utilizar más bolsas de plástico. 2023 se dejará de utilizar plástico de un sólo uso. 2025 poliester será todo reciclado y lino y algodón serán orgánicos.

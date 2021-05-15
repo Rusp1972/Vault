@@ -1,0 +1,4 @@
+- Incoming Service, Mr. Atavi Yenke: [global-incoming@io.uni-freiburg.de](mailto:global-incoming@io.uni-freiburg.de)
+- [["Team Coordinator Mobility, Dr. Jens Langer:" " " "[jens.langer@io.uni-freiburg.de](mailto:jens.langer@io.uni-freiburg.de)"]]
+    - 
+    - Baden-Württemberg Scholarship, Susanne Obert: [bw-stipendium@io.uni-freiburg.de](mailto:bw-stipendium@io.uni-freiburg.de)

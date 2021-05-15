@@ -1,0 +1,13 @@
+- Autor: [[Aliciardi, María Belén]]
+- Colombia(2009), Revista Latinoamericana de Bioética Volumen 9, Numero 16: Universidad Militar Nueva Granada. Colombia.
+- Artículo completo: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1657-47022009000100002&lng=en&nrm=iso&tlng=es
+- INTRODUCCIÓN
+    - El ser humano tiene una relación de dependencia del ambiente. 
+    - Esta relación ha sido de antropocentrismo (tomando todo de la naturaleza, que se juzgaba infinita), y a partir del siglo XX (WWII y desastres ecológicos) ha cambiado a una relación de biocentrismo, tomando conciencia de la finitud de recursos y tendiendo a la sustentabilidad. 
+    - La primer obra en la cual se menciona la conciencia ambiental es el libro "Primavera Silenciosa" de Rachel Carson.
+    - Desarrollo económico y sustentabilidad son posibles, siempre que se reconozca el derecho de la naturaleza a no ser destruida por el hombre. 
+    - "Etica ambiental": De ello se sigue la igualdad de todas las especies, pasando a ser la naturaleza el bien jurídicamente protegido.
+    - CONCEPTO DE IGUALDAD DE TODAS LAS ESPECIES? INCLUYE ANIMALES, IN
+    - CUAL ES EL RAZONAMIENTO PARA LLEGAR A ESA CONCLUSIÓN?
+- ¿LA CRISIS AMBIENTAL ES SOLO ECOLÓGICA O TAMBIÉN MORAL?
+- 

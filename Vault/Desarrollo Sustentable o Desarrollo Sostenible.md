@@ -1,0 +1,7 @@
+- Cuestiones Terminológicas II: [[Aliciardi, María Belén]]
+- [[Introducción a la Cuestión Ambiental]]
+- Definición del Informe Brundtland (1987, Nuestro Futuro Común): "'Sustainable Development' es el desarrollo que satisface las necesidades de la generación presente, sin comprometer la capacidad de las generaciones futuras de satisfacer  sus propias necesidades".
+- 7 de 9 lenguas estudiadas prefieren el uso de Sostenible.
+- Sostenible coincide con la definición que da la ONU (que distingue entre preservación de recursos naturales con o sin inclusión de factores económicos, sociales y humanos).
+- RAE utiliza SOSTENIBLE para referirse al medio ambiente.
+- Por tal motivo, se prefiere la palabra SOSTENIBLE.

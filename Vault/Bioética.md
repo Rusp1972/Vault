@@ -1,0 +1,19 @@
+- [[Introducción a la Cuestión Ambiental]]
+- Estudio de las acciones del hombre sobre la vida humana, animal o vegetal.
+- Es una interdisciplina.
+- Uso creativo del diálogo interdisciplinario, para resolver problemas sobre la vida.
+- Cómo surge: un teólogo alemán es el que creó el término, luego Aldo Leopold empieza a estudiar la relación entre hombre, flora y fauna. Murió tratando de apagar un incendio en una granja vecina. 
+- 1962 sale el libro de Rachel Carson.
+- 1971 Science on survival, ampliando la bioética de la ciencia médica a las ambientales y sociales. 
+- Código de Nurenberg: experimentación con seres humanos. 
+- Reporte Belmont: derechos de pacientes en experimentación médica.
+- No sólo investigar al hombre, sino su impacto en el ambiente. Macrobioética (contra microbioética, limitada a lo médico).
+- LGA: principio de responsabilidad, justicia intergeneracional, principio de precaución, etc. Luego lo veremos en Der. Const. Amb.
+- Decl. Universal de la UNESCO: bioética y DDHH. Vida y medioambiente, ppio. de responsabilidad.
+- Video de Ecología Política.
+- 1972: Erich Wolf. 
+- Economía ambiental o bioeconomía: Aldo Leopold y su libro sobre el estado y el tratamiento de los recursos naturales. Importante leer el estado del ambiente.
+- Economía ambiental: Georgescu.
+- Dimensión bioética de los ODS. Bioética global. Se ubica cada ODS en las distintas dimensiones: ambiental económica social.
+- Vincular ODS: otros autores colocan como eje al ODS 17. También relacionar con pacto global (10 ppios. para empresas, 2005).
+- ODS y DDHH: correspondencia entre las metas y los tratados de DDHH.

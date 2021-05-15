@@ -1,0 +1,14 @@
+- Adriana está internada. Puntitos en el cerebro.
+- Organización del día:
+    - Por la mañana: 
+        - Facturé y envié factura por Ortiz c. Grupo Colonia.
+        - Pagué seguro oficina.
+        - 11.00 hs. Champagnat, análisis de sangre.
+        - 12.00 hs. Carrefour Champagnat, comprar insumos.
+    - Por la tarde:
+        - 14.00 hs. Oficina: retirar plata para mamá, buscar carpeta de Rodríguez c Fuminor para hacer demanda, ver si Morales Alan llevó documentación y testigos para terminar esa demanda, ver Blanco Liliana por demanda salud.
+        - 15.00 hs. Llevar plata a mamá y regresar a casa.
+        - 16.00 a 19.00 hs. Trabajar remoto
+    - Por la noche:
+        - 19.00 a 21.00 hs. Cena
+        - 22.00 a 02.00 hs. Estudiar Maestría: hacer borrador TP caso Minamata
