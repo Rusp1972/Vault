@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-15.md",
+            "file": "Europa 2021/Europa 2021-2022.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "Europa 2021/Europa 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "d0642caf2a0a9c29",
   "lastOpenFiles": [
+    "Europa 2021/2022.md",
     "2021-05-15.md",
     "Protocolo de Nagoya.md",
     "El Nuevo Rembrandt.md",
@@ -107,7 +108,6 @@
     "Cultura de la cancelación y Lo que el viento se llevó.md",
     "Técnica Feynman.md",
     "Think Tanks.md",
-    "Zettelkasten Method.md",
-    "Ambiente y Coronavirus.md"
+    "Zettelkasten Method.md"
   ]
 }
