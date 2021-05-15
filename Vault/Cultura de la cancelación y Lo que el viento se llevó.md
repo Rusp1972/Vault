@@ -1,4 +1,10 @@
+Trabajo práctico final de la materia [[Fundamentos Filosóficos de la Propiedad Intelectual]]
+Parte 3/3
+Titulo: "Lo que el viento se llevó y cultura de la cancelación"
+Docente: Mag. [[Lucas Lehtinen]]
+Fecha de entrega: prorrogada por Covid
 
+Preguntas a desarrollar: 
 
 
 **
