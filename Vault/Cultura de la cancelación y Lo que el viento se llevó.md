@@ -1,2 +1,2 @@
 Trabajo práctico final de la materia [[Fundamentos Filosóficos de la Propiedad Intelectual]]
-Docente: Mag. []
+Docente: Mag. [[Lucas Leht]]
