@@ -1,4 +1,4 @@
-- Prof.:  [[]Edgardo Ferré Olive]]
+- Prof.:  [[Edgardo Ferré Olive]]
 - Trabajo final: elegir un tema de Economía Ambiental y escribir sobre el mismo (10 páginas).
 - Fecha de entrega 31/12/2020. Me otorgaron prórroga hasta el 15/01/2021.
 - Posibles temas:
