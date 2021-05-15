@@ -15,6 +15,28 @@
         }
       },
       {
+        "id": "d19d098dd2e8b244",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "El Nuevo Rembrandt.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7a0c5f8d18816355",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "La Dama de París.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "eeb13281a8b3867a",
         "type": "leaf",
         "state": {
@@ -79,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cultura de la cancelación y Lo que el viento se llevó.md",
+                "file": "El Nuevo Rembrandt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eeb13281a8b3867a",
+  "active": "d19d098dd2e8b244",
   "lastOpenFiles": [
-    "Cultura de la cancelación y Lo que el viento se llevó.md",
+    "El Nuevo Rembrandt.md",
     "2021-05-15.md",
+    "La Dama de París.md",
+    "Cultura de la cancelación y Lo que el viento se llevó.md",
     "Protocolo de Nagoya.md",
     "Técnica Feynman.md",
     "Think Tanks.md",
     "Zettelkasten Method.md",
     "Ambiente y Coronavirus.md",
-    "¿Existe una eco-bioética o Bioética ambiental_.md",
-    "]Edgardo Ferré Olive.md",
-    "Richard Baldwin.md"
+    "¿Existe una eco-bioética o Bioética ambiental_.md"
   ]
 }
