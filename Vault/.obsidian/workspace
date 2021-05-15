@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Think Tanks.md",
+            "file": "Técnica Feynman.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Think Tanks.md",
+                "file": "Técnica Feynman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d0642caf2a0a9c29",
   "lastOpenFiles": [
+    "Técnica Feynman.md",
     "Think Tanks.md",
     "Zettelkasten Method.md",
     "Ambiente y Coronavirus.md",
@@ -96,7 +97,6 @@
     "2021-05-15.md",
     "Protocolo de Nagoya.md",
     "Richard Baldwin.md",
-    "Cultura de la cancelación y Lo que el viento se llevó.md",
-    "Bienes comunes.md"
+    "Cultura de la cancelación y Lo que el viento se llevó.md"
   ]
 }
