@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "elinor ostrom.md",
+            "file": "Ambiente y Coronavirus.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elinor ostrom.md",
+                "file": "Ambiente y Coronavirus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,9 @@
   },
   "active": "ff84c0ef2c16f326",
   "lastOpenFiles": [
-    "elinor ostrom.md",
-    "2021-05-15.md"
+    "Ambiente y Coronavirus.md",
+    "2021-05-15.md",
+    "]Edgardo Ferré Olive.md",
+    "elinor ostrom.md"
   ]
 }
