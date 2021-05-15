@@ -24,17 +24,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "ff84c0ef2c16f326",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bienes comunes.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
