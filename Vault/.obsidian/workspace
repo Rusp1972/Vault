@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "¿Existe una eco-bioética o Bioética ambiental_.md",
+            "file": "Think Tanks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "¿Existe una eco-bioética o Bioética ambiental_.md",
+                "file": "Think Tanks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d0642caf2a0a9c29",
   "lastOpenFiles": [
+    "Think Tanks.md",
+    "Zettelkasten Method.md",
+    "Ambiente y Coronavirus.md",
     "¿Existe una eco-bioética o Bioética ambiental_.md",
     "]Edgardo Ferré Olive.md",
     "2021-05-15.md",
     "Protocolo de Nagoya.md",
     "Richard Baldwin.md",
     "Cultura de la cancelación y Lo que el viento se llevó.md",
-    "Bienes comunes.md",
-    "Climate tipping-points.md",
-    "Daniel Seitune.md",
-    "Empleo Verde.md"
+    "Bienes comunes.md"
   ]
 }
