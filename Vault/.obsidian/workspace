@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-15.md",
+            "file": "Europa 2021-2022/Europa 2021-2022.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Europa 2021/Europa 2021-2022.md",
+            "file": "Europa 2021-2022/Europa 2021-2022.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Europa 2021/Europa 2021-2022.md",
+                "file": "Europa 2021-2022/Europa 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1582cd3c7a0402ee",
+  "active": "d0642caf2a0a9c29",
   "lastOpenFiles": [
-    "Europa 2021/Europa 2021-2022.md",
+    "Europa 2021-2022/Europa 2021-2022.md",
     "2021-05-15.md",
+    "Europa 2021/Europa 2021-2022.md",
     "Protocolo de Nagoya.md",
     "Europa 2021/2022.md",
     "El Nuevo Rembrandt.md",
     "Fundamentos Filosóficos de la Propiedad Intelectual.md",
     "La Dama de París.md",
     "Cultura de la cancelación y Lo que el viento se llevó.md",
-    "Técnica Feynman.md",
-    "Think Tanks.md"
+    "Técnica Feynman.md"
   ]
 }
