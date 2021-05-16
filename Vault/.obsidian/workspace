@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-05-15.md",
+            "file": "Untitled 1.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d0642caf2a0a9c29",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "2021-05-15.md",
     "Europa 2021-2022/Europa 2021-2022.md",
     "Europa 2021/Europa 2021-2022.md",
@@ -96,7 +97,6 @@
     "El Nuevo Rembrandt.md",
     "Fundamentos Filosóficos de la Propiedad Intelectual.md",
     "La Dama de París.md",
-    "Cultura de la cancelación y Lo que el viento se llevó.md",
-    "Técnica Feynman.md"
+    "Cultura de la cancelación y Lo que el viento se llevó.md"
   ]
 }
