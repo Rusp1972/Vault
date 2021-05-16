@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Europa 2021/Europa 2021-2022.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "273e23b946c8469c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Protocolo de Nagoya.md",
+            "file": "2021-05-15.md",
             "mode": "source"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Europa 2021/Europa 2021-2022.md",
+                "file": "2021-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +88,15 @@
   },
   "active": "d0642caf2a0a9c29",
   "lastOpenFiles": [
-    "Europa 2021/2022.md",
     "2021-05-15.md",
+    "Europa 2021/Europa 2021-2022.md",
     "Protocolo de Nagoya.md",
+    "Europa 2021/2022.md",
     "El Nuevo Rembrandt.md",
     "Fundamentos Filosóficos de la Propiedad Intelectual.md",
     "La Dama de París.md",
     "Cultura de la cancelación y Lo que el viento se llevó.md",
     "Técnica Feynman.md",
-    "Think Tanks.md",
-    "Zettelkasten Method.md"
+    "Think Tanks.md"
   ]
 }
