@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "1582cd3c7a0402ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Europa 2021/Europa 2021-2022.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-05-15.md",
+                "file": "Europa 2021/Europa 2021-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0642caf2a0a9c29",
+  "active": "1582cd3c7a0402ee",
   "lastOpenFiles": [
-    "2021-05-15.md",
     "Europa 2021/Europa 2021-2022.md",
+    "2021-05-15.md",
     "Protocolo de Nagoya.md",
     "Europa 2021/2022.md",
     "El Nuevo Rembrandt.md",
